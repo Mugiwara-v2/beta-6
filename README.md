@@ -1,3 +1,3 @@
 # beta-6
 
-http://beta-6.com/index.html
+https://mugiwara-v2.github.io/beta-6/index.html
