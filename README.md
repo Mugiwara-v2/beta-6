@@ -1,3 +1,3 @@
-# beta-8
+# beta-v6
 
-https://mugiwara-v2.github.io/beta-8/index.html
+https://mugiwara-v2.github.io/beta-v6/index.html
